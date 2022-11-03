@@ -2,9 +2,7 @@ import styles from "./Header.module.css"
 
 function Header () {
     return(
-        <nav>
-            <a>aaaaaaaaaaaa</a>
-        </nav>
+        <p>aooooooo</p>
     )
 }
 

@@ -1,8 +1,10 @@
-import Header from './components/header/Header';
+import Animation from './animation/Animation';
 
 function App() {
   return (
-      <Header/>
+    <>
+      <Animation/>
+    </>
   );
 }
 
